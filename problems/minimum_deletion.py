@@ -40,4 +40,3 @@ def get_min_deletions(user_string):
     return deletion_num
 
 print(get_min_deletions("aaabbccedddd"))
-# aaabbcce
